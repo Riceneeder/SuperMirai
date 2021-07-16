@@ -51,6 +51,7 @@ Node.js 12+	Java 11+
 git clone https://github.com/Riceneeder/SuperMirai.git
 //或者
 wget https://github.com/Riceneeder/SuperMirai/archive/refs/heads/master.zip
+解压
 ```
 
 ------
@@ -70,13 +71,13 @@ sudo chmod +x ./mcl
 /login 你的QQ 你的QQ密码
 ```
 
-登录验证详情请查阅[验证码助手](https://txhelper.glitch.me/),推荐下载手机客户端进行验证
+登录验证方法详情请查阅[验证码助手](https://txhelper.glitch.me/),推荐下载手机客户端进行验证
 
 登录成功后``Ctrl c``退出mcl,关闭终端
 
 ------
 
-**2. 如果以前使用过mcl,请直接将``bots``文件夹复制到``lib/mcl``文件夹下**
+**2. 如果以前使用过mcl,请直接将``bots``文件夹复制到``lib/mcl``文件夹下,斌赋予mcl.sh运行权限``sudo chmod + ./mcl``**
 
 ### 快速开始
 
