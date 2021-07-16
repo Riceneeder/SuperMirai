@@ -1,0 +1,16 @@
+{
+    "baseUrl": "http://127.0.0.1:8080", //建议默认 在 lib/mcl/config/net.mamoe.mirai-api-http/setting.yml 修改
+    "authKey": "MYMIRAIQQ", // 建议修改 位置同上
+    "Bot_config": {
+        "QQnumber": "QQ号",
+        "QQpassword":"QQ密码",
+        "protocol":"ANDROID_PAD",
+        "//注释//protocol是使用的协议类型,默认使用安卓平板,有三种可选,区分大小写":"ANDROID_PHONE / ANDROID_PAD / ANDROID_WATCH"
+    },
+    "group_Filter":[ /
+        858939968,
+        691421598
+    ],
+    "//注释//":"group_Filter是需要接受消息的群的群号"
+}
+  
